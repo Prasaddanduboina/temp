@@ -1,0 +1,48 @@
+.header{
+	width: 100%;
+	height: 80px;
+	background-color: black;
+	margin-bottom: 10px;
+}
+.logo{
+	float: left;
+	margin: 30px;
+}
+.icons{
+	float: right; 
+	margin: 30px;
+}
+.one{
+	
+	border: 1px solid black;
+	height: 250px;
+	width: 85%;
+	margin: 30px;
+	position: relative;
+	left: 60px;
+	background-color: lightgrey;
+
+}
+.two{
+	height: 330px;
+	width: 90%;
+	position: relative;
+	left: 42px;
+
+}
+li{
+    float: left;
+    margin: 9px;
+    border: 1px solid black;
+    list-style-type: none;
+    width: 23%;
+    height: 330px; 
+}
+.footer{
+	background-color: black;
+	color: white;
+	height: 4 0px;
+	width: 100%;
+	text-align: center;
+	float: left;
+}
